@@ -1,0 +1,3 @@
+// Supabase configuration
+export const VITE_SUPABASE_URL="https://flwwgjttsnxtohlobvrz.supabase.co"
+export const VITE_SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZsd3dnanR0c254dG9obG9idnJ6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzQ1OTkzMzEsImV4cCI6MjA1MDE3NTMzMX0.BeMBAeDeef6Id8SBNQo7CyO9Dd2K7sbHSUNeCdJ9vaA"
